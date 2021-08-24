@@ -1,6 +1,4 @@
--- CIS 3190 DE - Assignment 2
 -- Author: Siri Chandana Kathroju
--- Student ID: 1002780
 -- Date: 3/8/2021
 -- Program: Game of Hangman by Dave Ahl, Digital. Converted to Fortran 77 by M.Writh, April 2012
 --          Translating hang5.for from legacy Fortran to a modern Ada program hangman.adb through a process of reengineering via translation.
